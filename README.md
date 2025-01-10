@@ -1,4 +1,4 @@
-# Model Deployment using AWS-Sagemaker-Docker-HuggingFace:
+# Model Deployment using AWS-Sagemaker-Docker-HuggingFace:  
 
 ### 1. Reason for model selection - >  
   
