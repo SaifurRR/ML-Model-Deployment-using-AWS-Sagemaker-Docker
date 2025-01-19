@@ -14,7 +14,7 @@ This way, the model learns the same inner representation of the English language
   
 ### 2. Model_Deployment_Docker.ipynb: Post to Container endpoint & prints out the response:
     
-   i. Install Sagemaker SDK, Transformers in Python3
+   i. Install Sagemaker SDK, Transformers in Python3   
 
   ii. Install necessary Libraries
 
