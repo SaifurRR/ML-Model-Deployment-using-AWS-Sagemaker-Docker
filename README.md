@@ -30,7 +30,7 @@ This way, the model learns the same inner representation of the English language
   
  ### 3. Dockerfile:
 
-    i. Create Dockerfile
+    i. Create Dockerfile  
 
    ii. Pull image from Dockerhub
 
