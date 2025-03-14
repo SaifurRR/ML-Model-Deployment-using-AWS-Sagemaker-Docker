@@ -68,9 +68,9 @@ This way, the model learns the same inner representation of the English language
 
 ### 2. Email Similarity Naive Bayes Classifier:
 
-Categories: ['rec.sport.baseball' 'rec.sport.hockey']
+*Categories:* ['rec.sport.baseball' 'rec.sport.hockey']
 
-Corresponding labels: [0 1]
+*Corresponding labels:* [0 1]
 
-Naive Bayes Model Score: 0.9723618090452262
+*Naive Bayes Model Score:* 0.9723618090452262
     
