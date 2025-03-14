@@ -57,6 +57,9 @@ This way, the model learns the same inner representation of the English language
  ## ML Models:
 
  ### 1. Naive Bayes Classifier:
+ 
+ *Review :* [Bad : Good]
+ 
 *Baby training set:* [[0.4980342 0.5019658]]
 
 *Amazon Instant Video training set:* [[0.77906497 0.22093503]]
