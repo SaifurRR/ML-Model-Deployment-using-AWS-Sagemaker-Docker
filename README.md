@@ -65,4 +65,12 @@ This way, the model learns the same inner representation of the English language
 *Amazon Instant Video training set:* [[0.77906497 0.22093503]]
 
 *Video Games training set:* [[0.32653528 0.67346472]]
+
+### 2. Email Similarity Naive Bayes Classifier:
+
+Categories: ['rec.sport.baseball' 'rec.sport.hockey']
+
+Corresponding labels: [0 1]
+
+Naive Bayes Model Score: 0.9723618090452262
     
