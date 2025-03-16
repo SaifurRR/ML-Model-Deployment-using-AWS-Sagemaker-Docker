@@ -66,6 +66,8 @@ This way, the model learns the same inner representation of the English language
 
 *Video Games training set:* [[0.32653528 0.67346472]]
 
+![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Na%C3%AFve%20Bayes%20Classifier.jpg)
+
 ### 2. Email Similarity Naive Bayes Classifier:
 
 *Categories:* ['rec.sport.baseball' 'rec.sport.hockey']
