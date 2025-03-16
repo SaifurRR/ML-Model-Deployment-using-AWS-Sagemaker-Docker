@@ -76,4 +76,4 @@ This way, the model learns the same inner representation of the English language
 
 ### 3. Predict Baseball Strike Zones with SVM:    
 
-[!ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Baseball%20Strike%20Zones_ML.jpg)
+![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Baseball%20Strike%20Zones_ML.jpg)
