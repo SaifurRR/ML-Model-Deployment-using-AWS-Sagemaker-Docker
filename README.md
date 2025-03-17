@@ -71,6 +71,8 @@ This way, the model learns the same inner representation of the English language
 
 ### 2. Email Similarity Naive Bayes Classifier:
 
+![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Email_Similarity_NVM.jpg)
+
 *Categories:* ['rec.sport.baseball' 'rec.sport.hockey']
 
 *Corresponding labels:* [0 1]
