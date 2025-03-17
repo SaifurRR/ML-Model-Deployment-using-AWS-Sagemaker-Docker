@@ -46,7 +46,7 @@ This way, the model learns the same inner representation of the English language
 
  viii. Copy the default custom service file to handle incoming data and inference requests
   
-   ix. Build Docker Image
+   ix. Build Docker Image 
 
    x. Define an entrypoint script for the docker image
 
