@@ -10,7 +10,6 @@ ii. Masked language modeling (MLM): this is part of the original training loss o
            
 iii. Cosine embedding loss: the model was also trained to generate hidden states as close as possible as the BERT base model.    
 This way, the model learns the same inner representation of the English language than its teacher model, while being faster for inference or downstream tasks.
-
     
 ### II. Model_Deployment_Docker.ipynb: Post to Container endpoint & prints out the response:     
     
@@ -68,12 +67,9 @@ This way, the model learns the same inner representation of the English language
 
 *Video Games training set:* [[0.32653528 0.67346472]]
 
-
 ### 2. Email Similarity Naive Bayes Classifier:
 
-<p align="center">
-  <img src="https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Email_Similarity_NVM.jpg" alt="Baseball Strike Zones" width="500"/>
-</p>
+![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Email_Similarity_NVM.jpg)
 
 *Categories:* ['rec.sport.baseball' 'rec.sport.hockey']
 
@@ -83,7 +79,9 @@ This way, the model learns the same inner representation of the English language
 
 ### 3. Predict Baseball Strike Zones with SVM:    
 
-![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/3_baseball_strike_zones_ML.jpg)
+<p align="center">
+  <img src="https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/3_baseball_strike_zones_ML.jpg" alt="Baseball Strike Zones" width="500"/>
+</p>
 
 In this project, we will use an SVM trained using a baseball dataset to find the decision boundary of the strike zone. The strike zone can be thought of as a decision boundary that determines whether or not a pitch is a strike or a ball. There is a strict definition of the strike zone — in practice, however, it will vary depending on the umpire or the player at bat.
 
