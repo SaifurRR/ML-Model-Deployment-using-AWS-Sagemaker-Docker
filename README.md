@@ -94,7 +94,7 @@ In this project, we will use an SVM trained using a baseball dataset to find the
 <p align="center">
   <img src="https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/3_baseball_strike_%20zone_gamma_c_%20svmscore.jpg" alt="Baseball Strike Zones" width="700"/>
    <br>
-   <figcaption>Optimize Hyperparameters </b>gamma</b> and </b>C</b></figcaption>
+    <b> </b> Optimize Hyperparameters </b>gamma</b> and </b>C</b>.
 </p>
 
 
