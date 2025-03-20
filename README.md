@@ -81,7 +81,7 @@ This way, the model learns the same inner representation of the English language
 
 ### 3. Predict Baseball Strike Zones with SVM:    
 
-![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/Baseball%20Strike%20Zones_ML.jpg)
+![ALTTEXT](https://github.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/blob/main/3_baseball_strike_zones_ML.jpg)
 
 In this project, we will use an SVM trained using a baseball dataset to find the decision boundary of the strike zone. The strike zone can be thought of as a decision boundary that determines whether or not a pitch is a strike or a ball. There is a strict definition of the strike zone — in practice, however, it will vary depending on the umpire or the player at bat.
 
