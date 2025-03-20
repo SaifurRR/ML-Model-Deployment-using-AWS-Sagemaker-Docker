@@ -87,6 +87,8 @@ In this project, we will use an SVM trained using a baseball dataset to find the
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaifurRR/ML-Model-Deployment-using-AWS-Sagemaker-Docker/main/3_baseball_strike_zones_Aaron_Judge.jpg" alt="Baseball Strike Zones" width="500"/>
+   <br>
+  <b> Figure: </b> Baseball strike zones for Aaron Judge.
 </p>
 
 
