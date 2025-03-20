@@ -97,7 +97,7 @@ In this project, we will use an SVM trained using a baseball dataset to find the
     <b> </b> Optimize Hyperparameters </b>"gamma"</b> and </b>"C"</b>.
 </p>
 
-Best **SVM Score: 0.8504** @ **gamma=0.30000000000000004**, **C=7**.
+Best **SVM Score: 0.8504** @ **gamma=0.30**, **C=7**.
 
 
 
